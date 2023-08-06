@@ -9,3 +9,4 @@
 - Tailwind
 - Pinia
 - Nuxt Image
+- Prisma
