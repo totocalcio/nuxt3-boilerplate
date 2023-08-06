@@ -10,7 +10,7 @@
     "plugin:vue/vue3-essential",
     "plugin:@typescript-eslint/recommended",
     "@nuxtjs/eslint-config-typescript",
-    "plugin:vue-a11y/recommended",
+    "plugin:vuejs-accessibility/recommended",
     "plugin:nuxt/recommended",
     "prettier"
   ],
@@ -20,7 +20,7 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["vue", "@typescript-eslint"],
+  "plugins": ["vue", "@typescript-eslint", "vuejs-accessibility"],
   "rules": {},
   "ignorePatterns": ["node_modules", ".nuxt", ".vscode"]
 }
