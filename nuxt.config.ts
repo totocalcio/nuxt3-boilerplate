@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/tailwindcss', '@nuxt/image-edge', '@nuxtjs/color-mode'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxt/image-edge'],
   colorMode: {
     preference: 'acid',
     dataValue: 'theme',

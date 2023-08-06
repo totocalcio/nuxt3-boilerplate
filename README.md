@@ -7,7 +7,5 @@
 - Prettier
 - TypeScript
 - Tailwind
-- DaisyUI
 - Pinia
 - Nuxt Image
-- Nuxt Color Mode
