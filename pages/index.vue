@@ -1,49 +1,7 @@
-<script lang="ts" setup>
-const colorMode = useColorMode()
-
-const themes = [
-  'system',
-  'light',
-  'dark',
-  'cupcake',
-  'bumblebee',
-  'emerald',
-  'corporate',
-  'synthwave',
-  'retro',
-  'cyberpunk',
-  'valentine',
-  'halloween',
-  'garden',
-  'forest',
-  'aqua',
-  'lofi',
-  'pastel',
-  'fantasy',
-  'wireframe',
-  'black',
-  'luxury',
-  'dracula',
-  'cmyk',
-  'autumn',
-  'business',
-  'acid',
-  'lemonade',
-  'night',
-  'coffee',
-  'winter',
-]
-</script>
+<script lang="ts" setup></script>
 
 <template>
   <div>
-    <div class="p-4 flex gap-4">
-      <button class="btn">Hello daisyUI</button>
-      <select v-model="colorMode.preference" class="select w-full max-w-xs">
-        <option disabled selected>Theme</option>
-        <option v-for="theme of themes" :key="theme">{{ theme }}</option>
-      </select>
-    </div>
     <div class="hero bg-base-200 py-10">
       <div class="hero-content text-center">
         <div class="max-w-md">
@@ -55,9 +13,6 @@ const themes = [
     </div>
     <div class="p-10">
       <div class="card w-96 bg-base-100 shadow-xl">
-        <figure>
-          <img src="https://placeimg.com/400/225/arch" alt="Shoes" />
-        </figure>
         <div class="card-body">
           <h2 class="card-title">Shoes!</h2>
           <p>If a dog chews shoes whose shoes does he choose?</p>
