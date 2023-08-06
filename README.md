@@ -10,3 +10,11 @@
 - Pinia
 - Nuxt Image
 - Prisma
+
+## Prisma init
+
+create .env
+
+```
+DATABASE_URL="file:./dev.db"
+```
