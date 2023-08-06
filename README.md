@@ -18,3 +18,9 @@ create .env
 ```
 DATABASE_URL="file:./dev.db"
 ```
+
+## Renovate
+
+Delete if not needed
+
+- renovate.json
