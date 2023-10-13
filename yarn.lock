@@ -1143,13 +1143,13 @@
     tailwindcss "^3.2.4"
     ufo "^1.0.1"
 
-"@pinia/nuxt@^0.4.6":
-  version "0.4.11"
-  resolved "https://registry.yarnpkg.com/@pinia/nuxt/-/nuxt-0.4.11.tgz#1b3f728ae112d45deff5971376e05b8a8d64f720"
-  integrity sha512-bhuNFngJpmBCdAqWguezNJ/oJFR7wvKieqiZrmmdmPR07XjsidAw8RLXHMZE9kUm32M9E6T057OBbG/22jERTg==
+"@pinia/nuxt@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@pinia/nuxt/-/nuxt-0.5.0.tgz#417b54961139178d53a7f7c709a20d10ae884a60"
+  integrity sha512-p9Ojw+H2dp5l6A1TFLwl03kQZuuO7cjEtppnwjEjkQA6y8SitpiarmogouFTks1hOSXPjMfXPDTW0vRV+wSxVg==
   dependencies:
     "@nuxt/kit" "^3.5.0"
-    pinia ">=2.1.0"
+    pinia ">=2.1.7"
 
 "@pkgr/utils@^2.3.1":
   version "2.3.1"
@@ -5604,10 +5604,10 @@ pify@^3.0.0:
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
   integrity sha512-C3FsVNH1udSEX48gGX1xfvwTWfsYWj5U+8/uK15BGzIGrKoUpghX8hWZwa/OFnakBiiVNmBvemTJR5mcy7iPcg==
 
-pinia@>=2.1.0:
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/pinia/-/pinia-2.1.6.tgz#e88959f14b61c4debd9c42d0c9944e2875cbe0fa"
-  integrity sha512-bIU6QuE5qZviMmct5XwCesXelb5VavdOWKWaB17ggk++NUwQWWbP5YnsONTk3b752QkW9sACiR81rorpeOMSvQ==
+pinia@>=2.1.7:
+  version "2.1.7"
+  resolved "https://registry.yarnpkg.com/pinia/-/pinia-2.1.7.tgz#4cf5420d9324ca00b7b4984d3fbf693222115bbc"
+  integrity sha512-+C2AHFtcFqjPih0zpYuvof37SFxMQ7OEG2zV9jRI12i9BOy3YQVAHwdKtyyc8pDcDyIc33WCIsZaCFWU7WWxGQ==
   dependencies:
     "@vue/devtools-api" "^6.5.0"
     vue-demi ">=0.14.5"
