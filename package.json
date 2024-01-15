@@ -36,6 +36,6 @@
   },
   "dependencies": {
     "sass": "^1.62.1",
-    "sass-loader": "^13.2.2"
+    "sass-loader": "^14.0.0"
   }
 }
